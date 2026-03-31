@@ -232,5 +232,15 @@
 			"3D"
 		],
 		"stars": 3
+	},
+	{
+		"name": "Arena",
+		"logo": "blob:https://blog.851473.xyz/8eb44863-a3da-41c2-a365-836c26476988",
+		"url": "https://arena.ai/text/direct",
+		"description": "免费试用各种前沿AI大模型，不过有额度限制，额度比较多。",
+		"tags": [
+			"AI"
+		],
+		"stars": 4
 	}
 ]
