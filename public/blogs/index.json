@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "slug": "setIP&Router",
+    "title": "Ubuntu/Windows设置固定IP和静态路由",
+    "tags": [],
+    "date": "2026-05-20T13:49",
+    "summary": "把设备网卡配置到 `172.29.254.0/24` 网段，并添加到 `10.18.0.0/16` 的静态路由",
+    "hidden": false,
+    "category": "总结"
+  }
+]
